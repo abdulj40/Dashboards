@@ -15,3 +15,15 @@ Links to some of the dashboard I built.
    Description: Demo sales dashboard based on demo data for practice purposes.<br>
    Link: https://public.tableau.com/profile/abdulrahman.jalloh#!/vizhome/SalesDashboard_16026836043090/SalesDashboard <br>
    Built with Tableau Desktop
+
+**locally hosted Dashboards on my computer, I took screenshots**<br>
+4. Sexual and Gender-Based Violence Crimes in Sierra Leone (Period: 2019 - 2020):<br>
+   Description: Dashboard that tracks SGBV reported cases in SL.<br>
+   **images:**<br>
+   <img src="sgbv_1.png" /> <br>
+   <img src="sgbv_2.png" /> <br>
+   <img src="sgbv_3.png" /> <br>
+   <img src="sgbv_4.png" /> <br>
+   <img src="sgbv_5.png" /> <br>
+   
+   
