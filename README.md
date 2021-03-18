@@ -20,10 +20,10 @@ Links to some of the dashboard I built.
 4. Sexual and Gender-Based Violence Crimes in Sierra Leone (Period: 2019 - 2020):<br>
    Description: Dashboard that tracks SGBV reported cases in SL.<br>
    **images:**<br>
-   <img src="sgbv_1.png" /> <br>
-   <img src="sgbv_2.png" /> <br>
-   <img src="sgbv_3.png" /> <br>
-   <img src="sgbv_4.png" /> <br>
-   <img src="sgbv_5.png" /> <br>
+   <img src="sgbv_1.PNG" /> 
+   <img src="sgbv_2.PNG" /> 
+   <img src="sgbv_3.PNG" /> 
+   <img src="sgbv_4.PNG" /> 
+   <img src="sgbv_5.PNG" /> 
    
    
