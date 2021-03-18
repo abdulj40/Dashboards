@@ -14,10 +14,15 @@ Links to some of the dashboard I built.
 3. Sales Dashboard: <br>
    Description: Demo sales dashboard based on demo data for practice purposes.<br>
    Link: https://public.tableau.com/profile/abdulrahman.jalloh#!/vizhome/SalesDashboard_16026836043090/SalesDashboard <br>
-   Built with ***Tableau Desktop***.
+   Built with ***Tableau Desktop***.<br>
+
+4. Covid19 Dashboard For Sierra Leone and Global (Date: April 5th 2020):<br>
+   Description:Dashboard that tracks covid19 reported cases, deaths, and recoveries in SL and Globally.<br>
+   Link: https://abdulj40.github.io/SL_Covid19_Blog/ <br>
+   Build with ***Fastpages***<br>
 
    **locally hosted Dashboards on my computer, I took screenshots**<br>
-4. Sexual and Gender-Based Violence Crimes in Sierra Leone (Period: 2019 - 2020):<br>
+5. Sexual and Gender-Based Violence Crimes in Sierra Leone (Period: 2019 - 2020):<br>
    Description: Dashboard that tracks SGBV reported cases in SL.<br>
    Built with ***Metabase***.<br>
    **images:**<br>
